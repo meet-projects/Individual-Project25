@@ -69,7 +69,9 @@ This is your chance to show us what you’re passionate about using CS only, you
 1. Brainstorming
 2. Writing down your plan, Storyboarding & Wireframing *(optional)* + Choosing a color scheme *(optional)*
 3. Implementation (Coding + building everything together)
-  
+
+
+### Make sure to submit your code [here](https://docs.google.com/forms/d/e/1FAIpQLSd7zpL2cBEfPCkWgw7mJs6Z_w-yxhnXVEmDH6e6zG4WXWSJjQ/viewform?usp=sharing&ouid=106044431888092229685)
 
 
 
